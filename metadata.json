@@ -1,1 +1,7 @@
-
+{
+  "name": "hoodncap",
+  "website": "https://github.com/hoodncap",
+  "description": "Gasp Testnet",
+  "logo": "https://raw.githubusercontent.com/hoodncap/forgasp/main/hoodncap.png",
+  "twitter": "https://x.com/hoodncap"
+}
